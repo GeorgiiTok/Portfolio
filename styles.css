@@ -1,19 +1,55 @@
 html{
-    background-color:green;
+    background-color:#96E9C6;
 }
 
 .exp
 {   font-family: 'Roboto', sans-serif;
-    background-color:yellow;
+    background-color:#83C0C1;
     margin-left: 20vw;
     margin-right:20vw;
     text-shadow: 2px;
 }
 .exp h3
 {
-    color: red;
+    color: #6C22A6;
 }
 .exp li 
 {
-    color:orange;
+    color:#6C22A6;
+}
+
+.blackBox
+{
+    width:100%;
+    background-color:black ;
+}
+.imagebox
+{
+    max-width: 65%;
+    padding-left:18%;
+    padding-top:5%;
+
+}
+.imagebox img
+{
+max-width: 100%;
+max-height: 800px;
+
+border:3px solid white;
+
+}
+.imagebox h1
+{
+text-transform: uppercase;
+color:white;
+text-align: center;
+font-family: 'Open Sans','Impact', sans-serif;
+letter-spacing: 1px;
+}
+.imagebox p
+{
+    color:white;
+text-align: center;
+padding-bottom: 25px;
+font-family: 'Open Sans','Impact', sans-serif;
 }
