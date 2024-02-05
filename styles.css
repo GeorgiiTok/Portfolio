@@ -9,10 +9,10 @@ html{
     padding-right:0.2vw;
     text-shadow: 2px;
 }
-#exp h3
+.exp h3
 {
     color: red;
 }
-#exp li{
+.exp li{
     color:orange;
 }
